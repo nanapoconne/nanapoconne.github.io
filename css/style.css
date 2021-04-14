@@ -6,6 +6,10 @@
  * Made By MaterializeCSS.com
  */
 
+body{
+  background: #eedde3;
+}
+
 nav ul a,
 nav .brand-logo {
   color: rgba(228, 163, 228, 0.774);
@@ -51,6 +55,7 @@ p {
 .icon-block .material-icons {
   font-size: inherit;
 }
+
 
 footer.page-footer {
   margin: 0;
