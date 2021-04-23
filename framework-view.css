@@ -1,0 +1,15 @@
+* {
+    border: thin solid rgb(156, 156, 156);
+}
+
+div {
+    border: thin solid rgb(221, 143, 112);
+}
+
+h1, h2, h3 {
+    border: thin solid rgb(190, 112, 221);
+}
+
+p {
+    border: thin solid rgb(112, 156, 221);
+}
